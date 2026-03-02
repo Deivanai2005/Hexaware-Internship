@@ -39,6 +39,6 @@ HireXpert
 ├── package.json
 
 ## Open Project
-cd Hexaware-Internship
+cd HireXpert
 ## Run App
 npx expo start
