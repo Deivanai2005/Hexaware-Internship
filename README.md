@@ -30,9 +30,11 @@ HireXpert
 │   ├── ProfileScreen.js 
 │   ├── JobDetailsScreen.js 
 │   └── SavedJobsScreen.js
-│── context/ 
+│ 
+│── context 
 │      ├── AuthContext.js 
 │      └── SavedJobsContext.js 
+│
 │── App.js 
 ├── package.json
 
